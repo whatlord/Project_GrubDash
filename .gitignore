@@ -1,3 +1,4 @@
 .git
 .attachignore
+.qualified-attach.json
 node_modules
